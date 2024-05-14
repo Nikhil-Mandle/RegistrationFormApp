@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">RegistrationFormAssignment</string>
+
+    <!--     Basic Page -->
+    <string name="register_title">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="next">Next</string>
+    <string name="first_name_error_message">First name is not correct, more than 3 char, required</string>
+    <string name="last_name_error_message">Last name is not correct, more than 3 char, required</string>
+    <string name="email_error_message">Email is not correct, e.g: abc@example.com</string>
+    <string name="phone_number_error_message">Phone number is not correct, accept numbers, 10 digit mobile number</string>
+    <string name="password_error_message">Password is not correct, Only accepted characters, number and special character, required 1 min number, special character required</string>
+    <string name="password_and_confirm_password_error_message">Password and Confirm Password is not matching</string>
+    <!--     Professional Page -->
+    <string name="educational_info">Educational Info</string>
+    <string name="Education">Education</string>
+    <string name="year_of_passing">Year Of Passing</string>
+    <string name="grade">Grade</string>
+    <string name="experience">Experience</string>
+    <string name="designation">Designation</string>
+    <string name="domain">Domain</string>
+    <string name="previous">Previous</string>
+    <string name="experience_error_message">Experience is not correct, Accept Number only</string>
+    <string name="grade_error_message">Grade is not correct, Only accept characters, Numbers</string>
+    <string name="designation_error_message">Designation is not correct, Only accept characters, Number</string>
+    <string name="domain_error_message">Domain is not correct, Only accept characters, Numbers</string>
+    <string name="year_of_passing_error_message">Year of Passing is not, Accept Number only</string>
+    <string name="education_error_message">Education is not correct</string>
+    <!--     Address Page -->
+    <string name="your_address">Your Address</string>
+    <string name="address">Address</string>
+    <string name="landMark">LandMark</string>
+    <string name="city">City</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="submit">Submit</string>
+    <string name="landmark_error_message">Landmark is not correct, more than 3 char, required</string>
+    <string name="state_error_message">State should Not be Empty, Required</string>
+    <string name="zip_code_error_message">Zip Code is not correct, only accept Number 6 digit</string>
+    <string name="city_error_message">City is not correct, only accept characters</string>
+    <string name="address_error_message">Address is not correct, more than 3 char required</string>
+</resources>
